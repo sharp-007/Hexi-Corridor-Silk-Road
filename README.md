@@ -8,6 +8,10 @@
 
 ![Journey to Hexi Corridor - Graph Builder](Journey%20to%20Hexi%20Corridor_Graph%20Builder.png)
 
+[![Video](https://img.youtube.com/vi/bP5fksosc08/maxresdefault.jpg)](https://www.youtube.com/watch?v=bP5fksosc08)
+
+▶️ [点击观看视频演示](https://www.youtube.com/watch?v=bP5fksosc08)
+
 ---
 
 ## 项目简介
